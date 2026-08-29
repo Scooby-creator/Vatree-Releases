@@ -1,10 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 19,
-  "versionName": "1.1.8",
+  "versionCode": 20,
+  "versionName": "1.1.9",
   "available": true,
-  "fileName": "Vatree-Android-1.1.8.apk",
-  "fileSize": 11930566,
-  "sha256": "b6afefebc177e68ba98e45f39abb739916849e4e5ebad63e327cb153b9e04571",
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.8/Vatree-Android-1.1.8.apk"
+  "fileName": "Vatree-Android-1.1.9-production.apk",
+  "fileSize": 8469139,
+  "sha256": "a119bcd4ee8bdeaa44d96d30789a37beea134b552de30c9e31d0b76fc96d9ba3",
+  "signingCertificateSha256": "60b641116e7f374876b7206fe18c383eec4a63ac9ffd646dbcfcf4ac578a98ae",
+  "rotationFromCertificateSha256": "df2ad2fbb5f9b44dd610bd3deaa4fa27f4ecc486a507bb4b67a9599b74fad953",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.9/Vatree-Android-1.1.9-production.apk"
 }
