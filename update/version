@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 20,
-  "versionName": "1.1.9",
+  "versionCode": 21,
+  "versionName": "1.1.10",
   "available": true,
-  "fileName": "Vatree-Android-1.1.9-migration.apk",
-  "fileSize": 12230998,
-  "sha256": "8c95d8a66bce179164d2e45ad72935d74b2d7fbe9f60c244b914fb0b3cdd50cc",
-  "signingCertificateSha256": "df2ad2fbb5f9b44dd610bd3deaa4fa27f4ecc486a507bb4b67a9599b74fad953",
-  "migrationRequiredBeforeProductionSigning": true,
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.9-migration/Vatree-Android-1.1.9-migration.apk"
+  "fileName": "Vatree-Android-1.1.10-production.apk",
+  "fileSize": 8469139,
+  "sha256": "70741f39e39cf1eb181350e1d59e7804bdfd26a83839961721c9276e9f0a3af0",
+  "signingCertificateSha256": "60b641116e7f374876b7206fe18c383eec4a63ac9ffd646dbcfcf4ac578a98ae",
+  "rotationFromCertificateSha256": "df2ad2fbb5f9b44dd610bd3deaa4fa27f4ecc486a507bb4b67a9599b74fad953",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.10/Vatree-Android-1.1.10-production.apk"
 }
