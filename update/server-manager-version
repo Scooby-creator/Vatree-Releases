@@ -1,0 +1,10 @@
+{
+  "platform": "server-manager",
+  "versionCode": 10209,
+  "versionName": "1.2.9",
+  "available": true,
+  "fileName": "NexoraServerManager-1.2.9.zip",
+  "fileSize": 79031660,
+  "sha256": "74f9346626f25ad8e936770f6a2e584170e403dcdf7cbef5c971eff765493038",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/server-manager-v1.2.9/NexoraServerManager-1.2.9.zip"
+}

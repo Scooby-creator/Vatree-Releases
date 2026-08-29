@@ -1,0 +1,10 @@
+{
+  "platform": "android",
+  "versionCode": 19,
+  "versionName": "1.1.8",
+  "available": true,
+  "fileName": "Vatree-Android-1.1.8.apk",
+  "fileSize": 11930566,
+  "sha256": "b6afefebc177e68ba98e45f39abb739916849e4e5ebad63e327cb153b9e04571",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.8/Vatree-Android-1.1.8.apk"
+}
