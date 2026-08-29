@@ -1,0 +1,10 @@
+{
+  "platform": "wpf",
+  "versionCode": 10205,
+  "versionName": "1.2.5",
+  "available": true,
+  "fileName": "Vatree-WPF-1.2.5-win-x64.zip",
+  "fileSize": 102932448,
+  "sha256": "7ea31122599178894bf51886dbc47ad993ce315121a64b4d74b938cdcee49617",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/wpf-v1.2.5/Vatree-WPF-1.2.5-win-x64.zip"
+}
