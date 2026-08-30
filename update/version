@@ -1,12 +1,12 @@
 {
   "platform": "android",
-  "versionCode": 21,
-  "versionName": "1.1.10",
+  "versionCode": 23,
+  "versionName": "1.2.0",
   "available": true,
-  "fileName": "Vatree-Android-1.1.10-production.apk",
-  "fileSize": 8469139,
-  "sha256": "70741f39e39cf1eb181350e1d59e7804bdfd26a83839961721c9276e9f0a3af0",
+  "fileName": "Vatree-Android-1.2.0-production.apk",
+  "fileSize": 8469083,
+  "sha256": "1794fce7d47ef7554b46068f3f3d762e4f2dcb20fdfbd4a81a39291d42f90a68",
   "signingCertificateSha256": "60b641116e7f374876b7206fe18c383eec4a63ac9ffd646dbcfcf4ac578a98ae",
   "rotationFromCertificateSha256": "df2ad2fbb5f9b44dd610bd3deaa4fa27f4ecc486a507bb4b67a9599b74fad953",
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.1.10/Vatree-Android-1.1.10-production.apk"
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/android-v1.2.0/Vatree-Android-1.2.0-production.apk"
 }
