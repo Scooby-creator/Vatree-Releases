@@ -1,0 +1,11 @@
+{
+  "platform": "api",
+  "versionCode": 10204,
+  "versionName": "1.2.4",
+  "available": true,
+  "fileName": "VatreeApi-1.2.4.zip",
+  "fileSize": 56605766,
+  "sha256": "3997c2e444919b4ac252efb5128dbb346bfb5277f4b001ba69492d77f507e340",
+  "requiresDatabaseMigration": true,
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/api-v1.2.4/VatreeApi-1.2.4.zip"
+}

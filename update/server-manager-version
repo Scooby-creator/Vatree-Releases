@@ -1,10 +1,10 @@
 {
   "platform": "server-manager",
-  "versionCode": 10209,
-  "versionName": "1.2.9",
+  "versionCode": 10210,
+  "versionName": "1.2.10",
   "available": true,
-  "fileName": "NexoraServerManager-1.2.9.zip",
-  "fileSize": 79031660,
-  "sha256": "74f9346626f25ad8e936770f6a2e584170e403dcdf7cbef5c971eff765493038",
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/server-manager-v1.2.9/NexoraServerManager-1.2.9.zip"
+  "fileName": "VatreeServerManager-1.2.10.zip",
+  "fileSize": 79033618,
+  "sha256": "2f086d879c194f0690c08cfe074f2ec22f8c3ee813ac080eeb1aa7c8850181f9",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/server-manager-v1.2.10/VatreeServerManager-1.2.10.zip"
 }
