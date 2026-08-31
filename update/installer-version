@@ -1,0 +1,10 @@
+{
+  "platform": "installer",
+  "versionCode": 10302,
+  "versionName": "1.3.2",
+  "available": true,
+  "fileName": "Vatree-ERP-Setup-1.3.2.exe",
+  "fileSize": 180808528,
+  "sha256": "d169c1dc4d56de7d18ae262765f0b887b5c3c0773ab1875a133d013a7a99c29b",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/installer-v1.3.2/Vatree-ERP-Setup-1.3.2.exe"
+}

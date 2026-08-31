@@ -1,11 +1,11 @@
 {
   "platform": "api",
-  "versionCode": 10204,
-  "versionName": "1.2.4",
+  "versionCode": 10302,
+  "versionName": "1.3.2",
   "available": true,
-  "fileName": "VatreeApi-1.2.4.zip",
-  "fileSize": 56605766,
-  "sha256": "3997c2e444919b4ac252efb5128dbb346bfb5277f4b001ba69492d77f507e340",
+  "fileName": "VatreeApi-1.3.2.zip",
+  "fileSize": 56665390,
+  "sha256": "7f37d9d0a1244785801e3b83e9ecc41243bdafd5a8149442b874acd2570db091",
   "requiresDatabaseMigration": true,
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/api-v1.2.4/VatreeApi-1.2.4.zip"
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/api-v1.3.2/VatreeApi-1.3.2.zip"
 }
