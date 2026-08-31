@@ -1,10 +1,10 @@
 {
   "platform": "installer",
-  "versionCode": 10302,
-  "versionName": "1.3.2",
+  "versionCode": 10303,
+  "versionName": "1.3.3",
   "available": true,
-  "fileName": "Vatree-ERP-Setup-1.3.2.exe",
-  "fileSize": 180808528,
-  "sha256": "d169c1dc4d56de7d18ae262765f0b887b5c3c0773ab1875a133d013a7a99c29b",
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/installer-v1.3.2/Vatree-ERP-Setup-1.3.2.exe"
+  "fileName": "Vatree-ERP-Setup-1.3.3.exe",
+  "fileSize": 180827520,
+  "sha256": "5bbc9314066e2c742458f22ac48e4a5bab6b81136233d79ac647c780ef3dfcbc",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/v1.3.3/Vatree-ERP-Setup-1.3.3.exe"
 }
