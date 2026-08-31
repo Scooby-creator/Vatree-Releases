@@ -1,10 +1,10 @@
 {
   "platform": "server-manager",
-  "versionCode": 10303,
-  "versionName": "1.3.3",
+  "versionCode": 10302,
+  "versionName": "1.3.2",
   "available": true,
-  "fileName": "VatreeServerManager-1.3.3.zip",
-  "fileSize": 79074704,
-  "sha256": "b837dffddf48c704652aa2c47eed6bd4292533aaffff53e671e192c2f52e7094",
-  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/v1.3.3/VatreeServerManager-1.3.3.zip"
+  "fileName": "VatreeServerManager-1.3.2.zip",
+  "fileSize": 79064242,
+  "sha256": "417a3b2ad09e259a08e598d36c117d5d4508c355491ed19e29563e26a742ddde",
+  "downloadUrl": "https://github.com/Scooby-creator/Vatree-Releases/releases/download/server-manager-v1.3.2/VatreeServerManager-1.3.2.zip"
 }
